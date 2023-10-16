@@ -73,6 +73,9 @@ public class NumToWord {
             case 20:
                 System.out.println("twenty");
                 break;
+            default:
+                System.out.println("This number is not here");
+                break;
         }
 
     }
